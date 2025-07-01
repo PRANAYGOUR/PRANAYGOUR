@@ -3,10 +3,10 @@
 
 🌟 I am passionate about learning, building, and contributing to real-world solutions.
 
-- 🔭 I’m currently working on: **React Native App Development**
-- 🌱 Learning: **Python automation, Firebase integration, and mobile UI/UX**
+- 🔭 I’m currently working on: **Web App Development**
+- 🌱 Learning: **Python automation, Firebase integration,AIML, and mobile UI/UX**
 - 👯 I’m open to: **Collaborations on apps, community tools, and beginner-friendly projects**
-- 💬 Ask me about: **Python, C++, React Native, Firebase**
+- 💬 Ask me about: **Python,HTML ,CSS ,C++, React Native, Firebase**
 - 📫 Reach me at: **pranay3042007@gmail.com**
 - ⚡ Fun fact: I believe even small ideas can become big projects!
 

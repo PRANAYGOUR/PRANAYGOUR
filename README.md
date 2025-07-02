@@ -3,7 +3,7 @@
 
 🌟 I am passionate about learning, building, and contributing to real-world solutions.
 
-- 🔭 I’m currently working on: **Web App Development**
+- 🔭 I’m currently working on: **Web App Development** & **Flutter App Development**
 - 🌱 Learning: **Python automation, Firebase integration,AIML, and mobile UI/UX**
 - 👯 I’m open to: **Collaborations on apps, community tools, and beginner-friendly projects**
 - 💬 Ask me about: **Python,HTML ,CSS ,C++, React Native, Firebase**
